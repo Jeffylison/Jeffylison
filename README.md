@@ -1,6 +1,4 @@
-<a href=#><img src="contributions.svg"></a>
-
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+  打个郊先<br>
+  <img src="https://profile-counter.glitch.me/Jeffylison/count.svg" />
 </p>
