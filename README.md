@@ -20,8 +20,9 @@
         ⣿⣜⢿⣭⢻⣿⣿⣿⣯⢧⠙⢻⠛⣛⣛⠛⠛⠿⠿⠟⣛⣥⣶⣼⢏⣾⣿⣿⣿⣿
         ⣿⣿⣎⠿⣇⢻⣿⣿⣿⡌⢷⣆⢭⣓⣒⣒⣛⣣⣶⠞⣵⣿⣿⣿⡿⣱⣾⣿⣿⣿
 -城之内一张-->
-<p align="center"><img src="https://github.com/Jeffylison/Jeffylison/blob/main/illust_102720841_20221122_195546.png?raw=true" alt="波奇酱~"></p>
-<p align="center"><sup>後藤ひとり</sup><br>孤独摇滚</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/100355251/219846553-62b4a342-8db5-4348-bf79-4298792c091b.png" alt="KESSOLU BAND"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/100355251/219846421-67bcaa3f-67ff-49cc-8a75-6e08ff7aa1f6.png" alt="KESSOLU BAND"></p>
+<p align="center"><sup>孤独摇滚</sup></p>
 <hr>
 <p align="center"><img src="https://user-images.githubusercontent.com/100355251/219844414-bfbd0b2c-049c-41aa-93d0-6e3ed53f0d63.png" width="268" height="668"></p>
 <p align="center"><sup>エンリコ・プッチ</sup></p>
