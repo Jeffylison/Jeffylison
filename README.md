@@ -23,7 +23,7 @@
 <p align="center"><img src="https://github.com/Jeffylison/Jeffylison/blob/main/illust_102720841_20221122_195546.png?raw=true" alt="波奇酱~"></p>
 <p align="center"><sup>後藤ひとり</sup><br>孤独摇滚</p>
 <hr>
-<p align="center"><img src="https://user-images.githubusercontent.com/100355251/219619910-e9bece17-9a0b-4543-9158-febd2effbadb.png" width="268" height="668"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/100355251/219844414-bfbd0b2c-049c-41aa-93d0-6e3ed53f0d63.png" width="268" height="668"></p>
 <p align="center"><sup>エンリコ・プッチ</sup></p>
 <p align="center">你相信引力吗，我很敬佩第一个吃香菇的人，说不定是毒蘑菇呢<br></p>
 <p align="center">DIO，等我得心应手后，我一定会让你觉醒的，人终是要上天堂的，最后再说一遍，时间要开始加速了<br></p>
