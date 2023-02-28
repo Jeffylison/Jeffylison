@@ -3,7 +3,7 @@
   <p align="center">你是第<img src="https://profile-counter.glitch.me/Jeffylison/count.svg" >个浏览者</p>
 
 <br>
-<p align="center"><img src="http://tiebapic.baidu.com/forum/w%3D580/sign=a52f1422e86eddc426e7b4f309d9b6a2/a99badd6912397dd0a9fa2c31c82b2b7d2a287bc.jpg?tbpicau=2023-03-02-05_17a58662cc5a55b8a9993da0960722a0" width="290" height="340"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/100355251/221823942-cdd96611-80e1-4a72-a6ec-a727a048e8d9.jpg" width="290" height="340"></p>
 <h2 align="center">你说得对！但是！</h2>
 <p ><del>NEFUm</del>是自主研发的一款全新开放世界冒险游戏. 游戏发生在一个被称作「哈拉滨」的幻想世界，在这里，被神选中的人将被授予<del>「大砖生」</del>，导引元素之力. 你将扮演一位名为<del>「淋砖鼠鼠」</del>的神秘角色，在自由的旅行中邂逅性格各异，能力独特的同伴们，和他们一起击败强敌，找回失散的亲人——同时，逐步发掘<del>「淋砖」</del>的真相.</p><br><hr>
 <!--
